@@ -1,0 +1,25 @@
+{
+  "mode": "Year Guess",
+  "difficulty": "Normal",
+  "current_player_index": 0,
+  "players": [
+    {
+      "name": "faris",
+      "score": 0,
+      "streak": 0,
+      "longest_streak": 2,
+      "correct_answers": 0,
+      "games_played": 0,
+      "lifelines": {
+        "hint": true,
+        "skip": true
+      }
+    }
+  ],
+  "round_format": {
+    "type": "fixed",
+    "value": 2
+  },
+  "questions_played": 2,
+  "rounds_played": 2
+}

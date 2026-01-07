@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Lipe Cvatu",
+    "artist": "Bijelo Dugme",
+    "album": "Bijelo Dugme",
+    "year": 1984,
+    "genre": "Rock",
+    "hints": [
+      "Tifa prvi put pjeva sa Dugmetom",
+      "Kao da je narodnjak al nije",
+      "Obavezna na svadbi brate"
+    ]
+  },
+  {
+    "title": "Bitanga I Princeza",
+    "artist": "Bijelo Dugme",
+    "album": "Bitanga I Princeza",
+    "year": 1979,
+    "genre": "Hard Rock",
+    "hints": [
+      "Najbolji album ikada po mnogima",
+      "Prodato 320 hiljada primjeraka",
+      "Simfonijski rok na max"
+    ]
+  },
+  {
+    "title": "Dirlija",
+    "artist": "Crvena Jabuka",
+    "album": "Crvena Jabuka",
+    "year": 1986,
+    "genre": "Pop Rock",
+    "hints": [
+      "Sa prvog albuma Jabuke",
+      "Folk vajb ali urbano",
+      "Prije tragicne nesrece"
+    ]
+  },
+  {
+    "title": "Nekako S Proljeca",
+    "artist": "Crvena Jabuka",
+    "album": "Nekako S Proljeca",
+    "year": 1991,
+    "genre": "Pop Rock",
+    "hints": [
+      "Kemal Monteno gostuje ovdje",
+      "Zadnji prije ratova",
+      "Zera vec pjeva umjesto Pare"
+    ]
+  },
+  {
+    "title": "Sve Ce To Mila Moja",
+    "artist": "Bijelo Dugme",
+    "album": "Bitanga I Princeza",
+    "year": 1979,
+    "genre": "Rock Ballad",
+    "hints": [
+      "Sa orkestrom i horom snimano",
+      "Prekrit ce ruzmarin, snijegovi i sas",
+      "Bebek u najboljoj formi"
+    ]
+  },
+  {
+    "title": "Emina",
+    "artist": "Himzo Polovina",
+    "album": "Single",
+    "year": 1965,
+    "genre": "Sevdah",
+    "hints": [
+      "Psihijatar po profesiji pjevao",
+      "Zadnja pjesma prije smrti",
+      "O djevojci koja ga opalila"
+    ]
+  },
+  {
+    "title": "Miljacka",
+    "artist": "Halid Beslic",
+    "album": "Halid 08",
+    "year": 2008,
+    "genre": "Sevdah/Folk",
+    "hints": [
+      "Joksimovic mu pisao muziku",
+      "Nazvana po sarajevskoj rijeci",
+      "Kralj sevdaha u novom vijeku"
+    ]
+  },
+  {
+    "title": "Kraj Tanana Sadrvana",
+    "artist": "Safet Isovic",
+    "album": "Sevdalinke",
+    "year": 1982,
+    "genre": "Sevdah",
+    "hints": [
+      "Doajen sevdalinke",
+      "Snimao za Radio Sarajevo",
+      "Bio i u Sydney Opera House"
+    ]
+  },
+  {
+    "title": "Ah Sto Cemo Ljubav Kriti",
+    "artist": "Amira Medunjanin",
+    "album": "Rosa",
+    "year": 2005,
+    "genre": "Sevdah",
+    "hints": [
+      "Balkanska Billie Holiday",
+      "Debitantski album",
+      "Nova generacija sevdaha"
+    ]
+  },
+  {
+    "title": "Kad Procvatu Behari",
+    "artist": "Halid Beslic",
+    "album": "Single",
+    "year": 1990,
+    "genre": "Sevdah",
+    "hints": [
+      "Proljecna sevdalinka",
+      "Snimano prije rata",
+      "Klasik iz zlatnog perioda"
+    ]
+  },
+  {
+    "title": "Ti Si Mi U Krvi",
+    "artist": "Zdravko Colic",
+    "album": "Ti Si Mi U Krvi",
+    "year": 1981,
+    "genre": "Pop",
+    "hints": [
+      "Najveca balada ikada",
+      "Kralj pop muzike",
+      "Prodalo se milion primjeraka"
+    ]
+  },
+  {
+    "title": "Ako Priđeš Bliže",
+    "artist": "Zdravko Colic",
+    "album": "Ako Priđeš Bliže",
+    "year": 1977,
+    "genre": "Pop",
+    "hints": [
+      "Drugi album mu najbolji",
+      "Kovacev produkcija",
+      "Devojke lomile izloge"
+    ]
+  },
+  {
+    "title": "Cesarica",
+    "artist": "Oliver Dragojevic",
+    "album": "Melodije Hrvatskog Jadrana",
+    "year": 1993,
+    "genre": "Pop",
+    "hints": [
+      "Gibonni mu napisao za 20 minuta",
+      "Grand prix festival",
+      "Prekretnica u karijeri"
+    ]
+  },
+  {
+    "title": "Galeb I Ja",
+    "artist": "Oliver Dragojevic",
+    "album": "Single",
+    "year": 1975,
+    "genre": "Pop",
+    "hints": [
+      "Kozmicki Dalmatinac pocinje",
+      "Zdenko Runjic komponovao",
+      "Prvi veliki hit"
+    ]
+  },
+  {
+    "title": "Cija Si",
+    "artist": "Tose Proeski",
+    "album": "Dan Za Nas",
+    "year": 2004,
+    "genre": "Pop",
+    "hints": [
+      "Elvis sa Balkana",
+      "Poginuo mladom u nesreci",
+      "Makedonska legenda"
+    ]
+  },
+  {
+    "title": "Bosnom Behar Prolade",
+    "artist": "Kemal Monteno",
+    "album": "Dasak Proljecnog Jutra",
+    "year": 1979,
+    "genre": "Pop",
+    "hints": [
+      "Tekstopisac za sve",
+      "Indexi saradzivao sa njim",
+      "Sarajevska pop ikona"
+    ]
+  },
+  {
+    "title": "Kokolo",
+    "artist": "Magazin",
+    "album": "Kokolo",
+    "year": 1983,
+    "genre": "Pop",
+    "hints": [
+      "Sa Ljiljom Brkic",
+      "Split sound fenomen",
+      "Festival Splitski"
+    ]
+  },
+  {
+    "title": "Jesen U Meni",
+    "artist": "Parni Valjak",
+    "album": "Glavom Protiv Zida",
+    "year": 1977,
+    "genre": "Rock/Pop",
+    "hints": [
+      "Husein Hasanefendic pjeva",
+      "Hrvatski rock giganti",
+      "Traje jos uvijek"
+    ]
+  },
+  {
+    "title": "Zauvijek Moja",
+    "artist": "Vlado Georgiev",
+    "album": "Zauvijek Moja",
+    "year": 2001,
+    "genre": "Pop",
+    "hints": [
+      "Moderna balada 2000ih",
+      "Makedonac u Beogradu",
+      "MTV spot ubio"
+    ]
+  },
+  {
+    "title": "Losa",
+    "artist": "Dino Merlin",
+    "album": "Sredinom",
+    "year": 2000,
+    "genre": "Pop",
+    "hints": [
+      "Kralj bosanskog popa",
+      "Najbolji nastup Zetra",
+      "Album prodao milion"
+    ]
+  },
+  {
+    "title": "Mile Voli Disko",
+    "artist": "Lepa Brena",
+    "album": "Mile Voli Disko",
+    "year": 1982,
+    "genre": "Turbo Folk",
+    "hints": [
+      "Prodato 780 hiljada primjeraka",
+      "Zahar joj komponovao sve",
+      "Smeker film prati album"
+    ]
+  },
+  {
+    "title": "Jugoslovenka",
+    "artist": "Lepa Brena",
+    "album": "Cetiri Godine",
+    "year": 1989,
+    "genre": "Turbo Folk",
+    "hints": [
+      "Sa tri pjevaca iz tri republike",
+      "Hymna jedinstvene Jugoslavije",
+      "Posljednja velika turneja"
+    ]
+  },
+  {
+    "title": "Kukavica",
+    "artist": "Ceca",
+    "album": "Sta Je To U Tvojim Venama",
+    "year": 1993,
+    "genre": "Turbo Folk",
+    "hints": [
+      "Marina Tucakovic pisala tekst",
+      "Prekretnica u karijeri",
+      "Balada za sva vremena"
+    ]
+  },
+  {
+    "title": "Decenija",
+    "artist": "Ceca",
+    "album": "Decenija",
+    "year": 2001,
+    "genre": "Turbo Folk",
+    "hints": [
+      "Prodato 800 hiljada",
+      "Grand Production album",
+      "Poslije Arkana"
+    ]
+  },
+  {
+    "title": "Dajte Mi Utehu",
+    "artist": "Saban Saulic",
+    "album": "Dajte Mi Utehu",
+    "year": 1969,
+    "genre": "Folk",
+    "hints": [
+      "Kralj narodnjaka pocinje",
+      "Sa 18 godina snimio",
+      "Hit koji je pokrenuo karijeru"
+    ]
+  },
+  {
+    "title": "Dodji Da Ostarimo Zajedno",
+    "artist": "Saban Saulic",
+    "album": "Hitovi",
+    "year": 1990,
+    "genre": "Folk",
+    "hints": [
+      "Kafanska klasika broj jedan",
+      "Kralj folk muzike",
+      "Balada uz rakiju obavezna"
+    ]
+  },
+  {
+    "title": "Pesma Od Bola",
+    "artist": "Aca Lukas",
+    "album": "Pesme Od Bola",
+    "year": 1996,
+    "genre": "Turbo Folk",
+    "hints": [
+      "Nekrunisani kralj folka",
+      "Futa radio aranžman",
+      "Obavezna u svakoj kafani"
+    ]
+  },
+  {
+    "title": "Licna Karta",
+    "artist": "Aca Lukas",
+    "album": "Licna Karta",
+    "year": 1998,
+    "genre": "Turbo Folk",
+    "hints": [
+      "Kafana na Balkanu tu je",
+      "Album mu najjaci bio",
+      "90te u punoj snazi"
+    ]
+  },
+  {
+    "title": "Ljubav Je",
+    "artist": "Jelena Karleusa",
+    "album": "Gili Gili",
+    "year": 1995,
+    "genre": "Turbo Folk",
+    "hints": [
+      "Skandalozna pop zvijezda",
+      "Pink dive pocetnica",
+      "Provokacija od pocetka"
+    ]
+  },
+  {
+    "title": "Ne Brini",
+    "artist": "Dragana Mirkovic",
+    "album": "Pomracenje Sunca",
+    "year": 1998,
+    "genre": "Turbo Folk",
+    "hints": [
+      "Kraljica turbo folka",
+      "Vjecan rival Ceci",
+      "Zvijezda Granda voditeljka"
+    ]
+  },
+  {
+    "title": "Slađana",
+    "artist": "Senidah",
+    "album": "Bez Tebe",
+    "year": 2018,
+    "genre": "Trap/R&B",
+    "hints": [
+      "Slovenska Billie Holiday",
+      "70 miliona pregleda",
+      "Bassivity Digital pokrenuo"
+    ]
+  },
+  {
+    "title": "Mišići",
+    "artist": "Senidah",
+    "album": "Single",
+    "year": 2019,
+    "genre": "Trap",
+    "hints": [
+      "90 miliona pregleda na YT",
+      "Atlas Erotika producirao",
+      "Hip hop kraljica Balkana"
+    ]
+  },
+  {
+    "title": "Vrati Me",
+    "artist": "Voyage",
+    "album": "Single",
+    "year": 2019,
+    "genre": "Trap",
+    "hints": [
+      "Sa Breskvicom snimao",
+      "Gen Z ikona",
+      "Otac bio tjelohranitelj Djindjica"
+    ]
+  },
+  {
+    "title": "Gad",
+    "artist": "Voyage",
+    "album": "Europol",
+    "year": 2022,
+    "genre": "Trap",
+    "hints": [
+      "Sa Nucciem feat",
+      "Prvi broj jedan singl",
+      "London i Tango poslije"
+    ]
+  },
+  {
+    "title": "Bez Tebe",
+    "artist": "Jala Brat & Buba Corelli",
+    "album": "Pakt S Djavolom",
+    "year": 2014,
+    "genre": "Trap Folk",
+    "hints": [
+      "Bosanski trap pioniri",
+      "Imperia label osnovali",
+      "Trinidad i Tobago tu je"
+    ]
+  },
+  {
+    "title": "Ultimatum",
+    "artist": "Jala Brat & Buba Corelli",
+    "album": "Single",
+    "year": 2017,
+    "genre": "Trap Folk",
+    "hints": [
+      "Trap folk fenomen",
+      "Bosna trap na karti stavila",
+      "Milioni pregleda svaki spot"
+    ]
+  },
+  {
+    "title": "4 Strane Sveta",
+    "artist": "Coby",
+    "album": "Juzni Vetar Soundtrack",
+    "year": 2018,
+    "genre": "Trap",
+    "hints": [
+      "Senidah feat na njoj",
+      "Juzni vetar film soundtrack",
+      "Bassivity osnivac"
+    ]
+  },
+  {
+    "title": "Kafana Na Balkanu",
+    "artist": "Aca Lukas",
+    "album": "Licna Karta",
+    "year": 1998,
+    "genre": "Pop Folk",
+    "hints": [
+      "90te u punoj snazi",
+      "Futa produkcija opet",
+      "Album Licna karta legenda"
+    ]
+  },
+  {
+    "title": "Dva Groša",
+    "artist": "Grše",
+    "album": "Single",
+    "year": 2023,
+    "genre": "Trap",
+    "hints": [
+      "Nova generacija rep",
+      "Bassivity roster",
+      "Mladi buntovnik scene"
+    ]
+  },
+  {
+    "title": "100%",
+    "artist": "Senidah & RAF Camora",
+    "album": "Single",
+    "year": 2019,
+    "genre": "Trap",
+    "hints": [
+      "Njemacki trep meets Balkan",
+      "RAF Camora feat",
+      "70 miliona pregleda"
+    ]
+  },
+  {
+    "title": "Džuli",
+    "artist": "Sara Jo",
+    "album": "Džuli",
+    "year": 2020,
+    "genre": "Pop",
+    "hints": [
+      "Moderna pop princeza",
+      "Beogradska scena nova",
+      "Fresh zvuk generacije"
+    ]
+  },
+  {
+    "title": "Pablo",
+    "artist": "Fox",
+    "album": "Moj Grad",
+    "year": 2019,
+    "genre": "Trap",
+    "hints": [
+      "Rijecka trap scena",
+      "Hrvatski underground hit",
+      "Milioni streamova"
+    ]
+  },
+  {
+    "title": "Ludnica",
+    "artist": "Nucci",
+    "album": "Single",
+    "year": 2021,
+    "genre": "Trap",
+    "hints": [
+      "Beogradski trap kralj",
+      "Sa Voyageom ekipa",
+      "Balkan Daje Sve koncert"
+    ]
+  },
+  {
+    "title": "Panamera",
+    "artist": "Devito",
+    "album": "Single",
+    "year": 2020,
+    "genre": "Trap",
+    "hints": [
+      "Auto-tune kralj Balkana",
+      "Luksuzni lifestyle tema",
+      "Mlada trap generacija"
+    ]
+  },
+  {
+    "title": "Evo Evo",
+    "artist": "Marija Šerifović",
+    "album": "Nisam Anđeo",
+    "year": 2008,
+    "genre": "Pop",
+    "hints": [
+      "Evrovizija pobjednica",
+      "Sa Desire pjesmu snimala",
+      "Beograd 2008 pjesma"
+    ]
+  },
+  {
+    "title": "Hiljadu Cuda",
+    "artist": "Emina Jahović",
+    "album": "Vila",
+    "year": 2008,
+    "genre": "Pop",
+    "hints": [
+      "Sa Mustafom bila u braku",
+      "Moderna pop diva 2000ih",
+      "Turska karijera poslije"
+    ]
+  },
+  {
+    "title": "Moj je Zivot Svicarska",
+    "artist": "Dino Merlin",
+    "album": "Sredinom",
+    "year": 2000,
+    "genre": "Pop",
+    "hints": [
+      "Kralj bosanskog popa",
+      "Album Sredinom hit",
+      "Zetra rasprodana za koncert"
+    ]
+  },
+  {
+    "title": "Nije Mi Žao",
+    "artist": "Sajsi MC",
+    "album": "Single",
+    "year": 2011,
+    "genre": "Hip Hop",
+    "hints": [
+      "Ženska hip hop pionirka",
+      "Beogradska underground scena",
+      "Muzicki Magazin hvalila"
+    ]
+  },
+  {
+    "title": "Dođi",
+    "artist": "Dino Merlin & Senidah",
+    "album": "Single",
+    "year": 2021,
+    "genre": "Pop",
+    "hints": [
+      "Legenda sa mladom zvijezdom",
+      "1.7 miliona streamova prvog dana",
+      "Generacije zajedno"
+    ]
+  },
+  {
+    "title": "Bomba",
+    "artist": "Edo Maajka",
+    "album": "Stig'o Cumur",
+    "year": 2006,
+    "genre": "Hip Hop",
+    "hints": [
+      "Bosanski rep kralj",
+      "U Sleeper Cell seriji pjesma",
+      "Disciplinska komisija"
+    ]
+  }
+]
