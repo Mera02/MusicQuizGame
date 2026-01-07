@@ -1,6 +1,3 @@
-# MusicQuizGame
-A terminal-based music quiz game built in Ruby. Test your knowledge across various music categories with multiple difficulty levels and lifelines.
-
 # 🎵 Music Quiz Game
 
 A comprehensive terminal-based music quiz game built in Ruby, featuring 50 carefully curated songs from the Balkans spanning multiple genres and eras.
